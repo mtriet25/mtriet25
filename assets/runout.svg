@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 132" width="1200" height="132" role="img" aria-label="Run-out groove: thanks for listening">
+<title>Run-out</title>
+<style>.glint{animation:glint 9s ease-in-out infinite}@keyframes glint{0%{transform:translateX(-500px)}60%,100%{transform:translateX(1300px)}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs>
+<radialGradient id="ro-disc" cx="0.5" cy="0" r="1"><stop offset="0" stop-color="#1d1714"/><stop offset="1" stop-color="#0c0908"/></radialGradient>
+<linearGradient id="ro-glint" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset="0.5" stop-color="#ffffff" stop-opacity="0.07"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="ro-vinyl"><circle cx="600" cy="1822" r="1800"/></clipPath>
+<path id="ro-arc" d="M 180 145.82 A 1728 1728 0 0 1 1020 145.82"/>
+</defs>
+<rect width="1200" height="132" fill="#151110"/>
+<circle cx="600" cy="1822" r="1800" fill="url(#ro-disc)"/>
+<circle cx="600" cy="1822" r="1800.0" fill="none" stroke="#241d19" stroke-width="0.7"/><circle cx="600" cy="1822" r="1795.5" fill="none" stroke="#241d19" stroke-width="0.7"/><circle cx="600" cy="1822" r="1792.4" fill="none" stroke="#241d19" stroke-width="0.7"/><circle cx="600" cy="1822" r="1789.3" fill="none" stroke="#3a302a" stroke-width="1"/><circle cx="600" cy="1822" r="1786.2" fill="none" stroke="#241d19" stroke-width="0.7"/><circle cx="600" cy="1822" r="1781.7" fill="none" stroke="#241d19" stroke-width="0.7"/><circle cx="600" cy="1822" r="1778.6" fill="none" stroke="#241d19" stroke-width="0.7"/><circle cx="600" cy="1822" r="1775.5" fill="none" stroke="#241d19" stroke-width="0.7"/><circle cx="600" cy="1822" r="1772.4" fill="none" stroke="#241d19" stroke-width="0.7"/><circle cx="600" cy="1822" r="1767.9" fill="none" stroke="#241d19" stroke-width="0.7"/><circle cx="600" cy="1822" r="1764.8" fill="none" stroke="#3a302a" stroke-width="1"/><circle cx="600" cy="1822" r="1761.7" fill="none" stroke="#241d19" stroke-width="0.7"/>
+<circle cx="600" cy="1822" r="1750" fill="none" stroke="#3a302a" stroke-width="0.8"/>
+<text font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" fill="#6b5d4f" letter-spacing="3.5"><textPath href="#ro-arc" startOffset="50%" text-anchor="middle">MT–MMXXVI–A  ·  THANKS FOR LISTENING  ·  ℗ LÊ PHẠM MINH TRIẾT</textPath></text>
+<g clip-path="url(#ro-vinyl)"><rect class="glint" x="0" y="0" width="420" height="132" fill="url(#ro-glint)"/></g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="Liner notes: Minh Triet studies Computer Science at UIT (VNU-HCM), working on AI, NLP, creative engineering and interactive web.">
+<title>Liner Notes</title>
+
+<defs>
+<filter id="ln-stock" x="0" y="0" width="100%" height="100%">
+<feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" seed="31" result="n"/>
+<feColorMatrix in="n" type="matrix" values="0 0 0 0 0.14  0 0 0 0 0.11  0 0 0 0 0.08  0 0 0 0.4 0"/>
+</filter>
+<clipPath id="ln-card"><rect width="1200" height="400"/></clipPath>
+</defs>
+<rect width="1200" height="400" fill="#efe4d4"/>
+<g clip-path="url(#ln-card)">
+<circle cx="1160" cy="-6" r="92" fill="#c8552e"/>
+<circle cx="1060" cy="-6" r="92" fill="none" stroke="#1c2a4a" stroke-width="1.4" opacity="0.7"/>
+<circle cx="1060" cy="-6" r="64" fill="none" stroke="#1c2a4a" stroke-width="1.4" opacity="0.55"/>
+<rect x="0" y="390" width="1200" height="10" fill="#1c2a4a"/>
+</g>
+<text x="72" y="74" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" fill="#5c5147" letter-spacing="4">LINER NOTES</text>
+<line x1="72" y1="88" x2="120" y2="88" stroke="#c8552e" stroke-width="2"/>
+<text x="72" y="156" font-family="Georgia, serif" font-style="italic" font-size="40" fill="#15100d">Rigorous underneath,</text>
+<text x="72" y="204" font-family="Georgia, serif" font-style="italic" font-size="40" fill="#15100d">considerate on the surface.</text>
+<text x="72" y="262" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#5c5147">Computer Science at the University of Information</text><text x="72" y="286" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#5c5147">Technology, VNU-HCM. I build where AI and language</text><text x="72" y="310" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#5c5147">meet things people actually touch, and I care as much</text><text x="72" y="334" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#5c5147">about how it feels to use as about what runs underneath.</text>
+<text x="700" y="74" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" fill="#5c5147" letter-spacing="4">CREDITS</text>
+<line x1="700" y1="88" x2="748" y2="88" stroke="#c8552e" stroke-width="2"/>
+<text x="700" y="150" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" fill="#5c5147" letter-spacing="2.5">STUDYING</text><text x="820" y="150" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#15100d">Computer Science, UIT (VNU-HCM)</text><line x1="700" y1="168" x2="1128" y2="168" stroke="#d6cab6"/><text x="700" y="194" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" fill="#5c5147" letter-spacing="2.5">FOCUS</text><text x="820" y="194" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#15100d">AI · Natural Language Processing</text><line x1="700" y1="212" x2="1128" y2="212" stroke="#d6cab6"/><text x="700" y="238" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" fill="#5c5147" letter-spacing="2.5">ALSO</text><text x="820" y="238" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#15100d">Creative Engineering · Interactive Web</text><line x1="700" y1="256" x2="1128" y2="256" stroke="#d6cab6"/><text x="700" y="282" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" fill="#5c5147" letter-spacing="2.5">WRITTEN IN</text><text x="820" y="282" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#15100d">Python · TypeScript</text><line x1="700" y1="300" x2="1128" y2="300" stroke="#d6cab6"/><text x="700" y="326" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" fill="#5c5147" letter-spacing="2.5">BASED IN</text><text x="820" y="326" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#15100d">Ho Chi Minh City</text><line x1="700" y1="344" x2="1128" y2="344" stroke="#d6cab6"/>
+<rect width="1200" height="400" fill="none" stroke="#c9bda9" stroke-width="1"/>
+<rect width="1200" height="400" filter="url(#ln-stock)" opacity="0.45"/>
+</svg>
